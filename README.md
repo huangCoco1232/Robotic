@@ -1,2 +1,2 @@
 # Robotic
-Robotic base on the raspberry
+Robotic base on the raspberry 4B
